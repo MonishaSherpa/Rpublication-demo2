@@ -1,0 +1,12 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (optional - uncomment if you don't want to share data)
+# data/
+
+# Output files
+*.pdf
+*.png
